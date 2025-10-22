@@ -1,0 +1,16 @@
+Individual Motor Control:
+move_motor(motor_id, position) - Move single motor to specific position
+open_motor(motor_id) - Open single motor
+close_motor(motor_id) - Close single motor
+get_motor_position(motor_id) - Read single motor position
+
+
+
+
+Simultaneous Motor Control:
+move_all_motors(position) - Move all motors to the same position
+move_motors_individually(positions_dict) - Move each motor to different positions
+open_all_motors() - Open all motors
+close_all_motors() - Close all motors
+get_all_positions() - Read all motor positions
+stop_all_motors() - Stop all motors at current positions
