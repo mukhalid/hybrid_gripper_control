@@ -2,4 +2,7 @@
 control of the universal hybrid gripper, for individual and simultaneous control of the JVL motors enabling opening and closing the gripper
 
 
-it has the option for velocity and torque based control
+it has the option for velocity and torque based control,
+
+
+
